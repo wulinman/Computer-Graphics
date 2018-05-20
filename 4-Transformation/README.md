@@ -4,7 +4,7 @@
 
 1. 画一个立方体cube。
 
-   ![](E:\Study\Grade3\second\ComupterGraphics\4\2.png)
+   ![](https://github.com/wulinman/Computer-Graphics/blob/master/4-Transformation/img/2.png?raw=true)
 
    启动深度测试 `glEnable(GL_DEPTH_TEST)`和关闭深度测试 `glDisable(GL_DEPTH_TEST)`查看区别。
 
@@ -22,7 +22,7 @@
 
    ## Bonus
 
-   1. 结合以上三种变换，实现有创意的动画。
+   结合以上三种变换，实现有创意的动画。
 
    然而其实我的毫无创意。。。
 
