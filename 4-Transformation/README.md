@@ -8,17 +8,17 @@
 
    启动深度测试 `glEnable(GL_DEPTH_TEST)`和关闭深度测试 `glDisable(GL_DEPTH_TEST)`查看区别。
 
-   2. 平移(Translation)：使cube沿着垂直方向**来回**移动
+2. 平移(Translation)：使cube沿着垂直方向**来回**移动
 
-   ![trans]()
+   ![trans](https://github.com/wulinman/Computer-Graphics/blob/master/4-Transformation/img/trans.gif?raw=true)
 
-   3. 旋转(Rotation)：使cube沿着YoZ平面的y=z轴**持续**旋转
+3. 旋转(Rotation)：使cube沿着YoZ平面的y=z轴**持续**旋转
 
-      ![rotate]()
+   ![rotate](https://github.com/wulinman/Computer-Graphics/blob/master/4-Transformation/img/rotate.gif?raw=true)
 
-   4. 放缩(Scaling)：使cube**持续**放大缩小
+4. 放缩(Scaling)：使cube**持续**放大缩小
 
-   ![scale]()
+   ![scale](https://github.com/wulinman/Computer-Graphics/blob/master/4-Transformation/img/scale.gif?raw=true)
 
    ## Bonus
 
@@ -26,4 +26,4 @@
 
    然而其实我的毫无创意。。。
 
-   ![]()
+   ![](https://github.com/wulinman/Computer-Graphics/blob/master/4-Transformation/img/all.gif?raw=true)
